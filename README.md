@@ -1,6 +1,6 @@
-## Fast DL (Campo Minado)
+## 🛠 Fast DL (Campo Minado)
 
-Um fast dl dedicado para o servidor "Campo Minado" , destribuidora de mapas e de sons e etc
+**Um fast dl dedicado para o servidor "Campo Minado" , Destribuidora de mapas e sons!**
 
 Acesse nosso servidor! : **177.54.157.34:27150**
 
