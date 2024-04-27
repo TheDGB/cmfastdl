@@ -4,6 +4,6 @@
 
 Acesse nosso servidor! : **177.54.157.34:27150**
 
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+Ou acesse pelo website! :(steam://connect/177.54.157.34:27150)
 
 ## ![App Screenshot](https://i.ibb.co/0GXT25t/Screenshot-2024-04-20-23-40-22.png)
