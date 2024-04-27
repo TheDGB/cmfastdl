@@ -8,7 +8,7 @@ Ou acesse pelo website! : steam://connect/177.54.157.34:27150
 
 ## ![App Screenshot](https://i.ibb.co/0GXT25t/Screenshot-2024-04-20-23-40-22.png)
 
-## Lançamento do discord!
+## 💬 Lançamento do discord!
 Finalmente a abertura do servidor foi lançada , todos podem conversar no servidor! , convidem seus amigos para o servidor , vamos fazer essa comundiade possivel!
 
 ## ![App Screenshot](https://i.ibb.co/hV4PrQz/Cm-Discord.png)
