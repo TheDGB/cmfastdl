@@ -7,3 +7,5 @@ Acesse nosso servidor! : **177.54.157.34:27150**
 Ou acesse pelo website! : steam://connect/177.54.157.34:27150
 
 ## ![App Screenshot](https://i.ibb.co/0GXT25t/Screenshot-2024-04-20-23-40-22.png)
+
+![Discord](https://discordapp.com/api/guilds/[1231410652547907646]/widget.png?style=shield)
