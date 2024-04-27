@@ -14,3 +14,5 @@ Finalmente a abertura do servidor foi lançada , todos podem conversar no servid
 ## ![Foto Do Discord](https://i.ibb.co/hV4PrQz/Cm-Discord.png)
 
 [![](https://dcbadge.vercel.app/api/server/JWYzdsSa7Q)](https://discord.gg/JWYzdsSa7Q)
+
+(Icone do Campo Minado Criado Por Besnick) 
