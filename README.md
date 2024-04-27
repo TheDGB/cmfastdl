@@ -8,4 +8,4 @@ Ou acesse pelo website! : steam://connect/177.54.157.34:27150
 
 ## ![App Screenshot](https://i.ibb.co/0GXT25t/Screenshot-2024-04-20-23-40-22.png)
 
-[![](https://dcbadge.vercel.app/api/server/https://discord.gg/JWYzdsSa7Q)](https://discord.gg/[INVITEID](https://discord.gg/JWYzdsSa7Q))
+[![](https://dcbadge.vercel.app/api/server/JWYzdsSa7Q)](https://discord.gg/JWYzdsSa7Q)
