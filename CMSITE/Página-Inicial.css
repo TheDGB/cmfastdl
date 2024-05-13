@@ -1,0 +1,76 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 459px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "ADLaM Display";
+  margin: 133px -23px 0 327px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: linear-gradient(white, black);
+  --radius: 9px;
+  padding: 10px 92px 10px 91px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 307px;
+  height: 307px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -205px auto 60px 0;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 175px;
+    margin-right: -68px;
+    margin-left: 372px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 347px;
+    margin-right: 187px;
+    margin-left: 233px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: -106px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 329px;
+    margin-right: 250px;
+    margin-left: 350px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    padding: 22px 131px 22px 129px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: -79px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    width: 340px;
+    margin-top: 365px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: -84px;
+  }
+}
