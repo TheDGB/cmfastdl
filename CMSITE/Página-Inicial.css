@@ -14,13 +14,13 @@
 
 .u-section-1 .u-text-2 {
   font-size: 6rem;
-  margin: 48px 202px 0 711px;
+  margin: 48px 124px 0 789px;
 }
 
 .u-section-1 .u-text-3 {
   font-size: 2.25rem;
   text-shadow: 2px 2px 10px rgba(255,255,255,1);
-  margin: -12px 222px 0 638px;
+  margin: -9px 175px 0 685px;
 }
 
 .u-section-1 .u-image-1 {
@@ -28,7 +28,7 @@
   height: 265px;
   --radius: 23px;
   transition-duration: 0.5s;
-  margin: -124px auto 0 58px;
+  margin: -126px auto 0 58px;
 }
 
 .u-section-1 .u-image-2 {
@@ -37,13 +37,13 @@
   box-shadow: 2px 2px 11px 0px rgba(128,128,128,1);
   background-image: url("images/oie_oie_trim_image.png");
   background-position: 50% 50%;
-  margin: -130px 327px 0 auto;
+  margin: -130px 263px 0 auto;
 }
 
 .u-section-1 .u-custom-html-1 {
   height: auto;
   min-height: 508px;
-  margin: 24px 690px 0 83px;
+  margin: 24px 593px 0 180px;
 }
 
 .u-section-1 .u-text-4 {
@@ -52,13 +52,13 @@
 
 .u-section-1 .u-text-5 {
   font-size: 6rem;
-  margin: -139px 343px 0 570px;
+  margin: -147px 222px 0 691px;
 }
 
 .u-section-1 .u-text-6 {
   font-size: 2.25rem;
   text-shadow: 2px 2px 10px rgba(255,255,255,1);
-  margin: -14px 390px 0 450px;
+  margin: -16px 270px 0 570px;
 }
 
 .u-section-1 .u-image-3 {
@@ -66,7 +66,7 @@
   height: 150px;
   --radius: 10px;
   box-shadow: 2px 2px 11px 0px rgba(128,128,128,1);
-  margin: 9px 479px 60px auto;
+  margin: 18px 352px 60px auto;
 }
 
 @media (max-width: 1199px) {
@@ -80,18 +80,18 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-right: 102px;
-    margin-left: 611px;
+    margin-right: 24px;
+    margin-left: 689px;
   }
 
   .u-section-1 .u-text-3 {
-    margin-right: 122px;
-    margin-left: 538px;
+    margin-right: 75px;
+    margin-left: 585px;
   }
 
   .u-section-1 .u-custom-html-1 {
-    margin-right: 573px;
-    margin-left: 0;
+    margin-right: 493px;
+    margin-left: 80px;
   }
 
   .u-section-1 .u-text-4 {
@@ -100,13 +100,13 @@
   }
 
   .u-section-1 .u-text-5 {
-    margin-right: 243px;
-    margin-left: 470px;
+    margin-right: 122px;
+    margin-left: 591px;
   }
 
   .u-section-1 .u-text-6 {
-    margin-right: 290px;
-    margin-left: 350px;
+    margin-right: 170px;
+    margin-left: 470px;
   }
 }
 
@@ -121,22 +121,23 @@
   }
 
   .u-section-1 .u-text-3 {
-    margin-right: 12px;
-    margin-left: 428px;
+    margin-right: 0;
+    margin-left: 440px;
   }
 
   .u-section-1 .u-custom-html-1 {
     margin-right: 353px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-text-5 {
-    margin-right: 133px;
-    margin-left: 360px;
+    margin-right: 12px;
+    margin-left: 481px;
   }
 
   .u-section-1 .u-text-6 {
-    margin-right: 180px;
-    margin-left: 240px;
+    margin-right: 60px;
+    margin-left: 360px;
   }
 }
 
@@ -152,13 +153,13 @@
 
   .u-section-1 .u-text-3 {
     margin-top: 2px;
-    margin-right: 0;
     margin-left: 260px;
   }
 
   .u-section-1 .u-image-1 {
     width: 540px;
     height: 251px;
+    margin-top: -124px;
     margin-left: 0;
   }
 
@@ -173,17 +174,13 @@
 
   .u-section-1 .u-text-5 {
     font-size: 2.25rem;
-    margin-right: 43px;
-    margin-left: 270px;
+    margin-right: 0;
+    margin-left: 313px;
   }
 
   .u-section-1 .u-text-6 {
-    margin-right: 90px;
-    margin-left: 150px;
-  }
-
-  .u-section-1 .u-image-3 {
-    margin-right: 390px;
+    margin-right: 0;
+    margin-left: 240px;
   }
 }
 
@@ -222,13 +219,11 @@
 
   .u-section-1 .u-text-5 {
     font-size: 1.875rem;
-    margin-right: 0;
     margin-left: 113px;
   }
 
   .u-section-1 .u-text-6 {
     font-size: 1.875rem;
-    margin-right: 0;
     margin-left: 40px;
   }
 
